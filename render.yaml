@@ -1,0 +1,12 @@
+# Exported from Render on 2026-10-09T16:33:58Z
+version: "1"
+services:
+- type: web
+  name: bmo2026pool
+  runtime: node
+  repo: https://github.com/danaraad50-bit/BMO2026POOL
+  plan: free
+  region: ohio
+  buildCommand: npm install
+  startCommand: npm start
+  autoDeployTrigger: commit
