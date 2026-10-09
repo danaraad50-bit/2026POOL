@@ -4,7 +4,7 @@ services:
 - type: web
   name: bmo2026pool
   runtime: node
-  repo: https://github.com/danaraad50-bit/2026POOL.git
+  repo: https://github.com/danaraad50-bit/2026POOL
   plan: free
   region: ohio
   buildCommand: npm install
