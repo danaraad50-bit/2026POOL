@@ -325,7 +325,7 @@ app.get("/api/admin/status",adminGate,(req,res)=>{
  res.json({updatedAt:state.updatedAt,ageMinutes:ageMinutes(),unmatched:state.statsQuality?.unmatched||[],noCurrentStats:state.statsQuality?.noCurrentStats||[],franchisePicks,trades:tradeRows(false),participants:participants.map(p=>({...p,paid:!!db.prepare("SELECT paid FROM participants_meta WHERE pool_name=?").get(p.poolName)?.paid}))});
 });
 
-app.get('/{*splat}',(req,res)=>res.sendFile(path.join(__dirname,"public/index.html")));
+app.get((req,res)=>res.sendFile(path.join(__dirname,"public/index.html")));
 cron.schedule(config.updateSchedule,async()=>{try{await refresh("scheduled");console.log("Scheduled NHL refresh complete");}catch(e){console.error("Scheduled NHL refresh failed:",e.message);}}, {timezone:config.timezone});
 app.listen(PORT,async()=>{
  console.log(`BMO2026 tracker listening on ${PORT}`);
