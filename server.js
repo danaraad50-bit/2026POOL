@@ -31,18 +31,14 @@ const TEAM_FULL_NAMES = {
   "Utah Hockey Club":"UTA","Utah Mammoth":"UTA","Vancouver Canucks":"VAN","Vegas Golden Knights":"VGK",
   "Washington Capitals":"WSH","Winnipeg Jets":"WPG"
 };
-const stripAccents=v=>String(v||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").trim().toLowerCase();
-const TEAM_FULL_NAME_KEYS = new Map(Object.entries(TEAM_FULL_NAMES).map(([name,abbr])=>[stripAccents(name),abbr]));
+const TEAM_FULL_NAME_KEYS = new Map(Object.entries(TEAM_FULL_NAMES).map(([name,abbr])=>[name.toLowerCase(),abbr]));
 function teamCodeFromRow(r) {
   const val=v=>v&&typeof v==="object"?(v.default??v.abbrev??v.code??""):v;
   const direct=val(r?.teamAbbrev??r?.teamAbbreviation??r?.teamCode);
   if(direct && /^[A-Za-z]{2,4}$/.test(String(direct).trim())) return canonicalTeam(direct);
-  // NHL skater/goalie summary rows use plural `teamAbbrevs` (e.g. "EDM" or "TOR,EDM" after a mid-season trade); use the most recent team.
-  const multi=val(r?.teamAbbrevs);
-  if(multi){const last=String(multi).split(/[,\/\s]+/).filter(Boolean).pop();if(last&&/^[A-Za-z]{2,4}$/.test(last))return canonicalTeam(last);}
   const teamValue=val(r?.team);
   if(teamValue && /^[A-Za-z]{2,4}$/.test(String(teamValue).trim())) return canonicalTeam(teamValue);
-  const full=stripAccents(val(r?.teamFullName??r?.teamName??r?.franchiseName??teamValue)??"");
+  const full=String(val(r?.teamFullName??r?.teamName??r?.franchiseName??teamValue)??"").trim().toLowerCase();
   return TEAM_FULL_NAME_KEYS.get(full)||canonicalTeam(full);
 }
 const PLAYER_ALIASES = { "Hughes, Jack|NJ":"Hughes, Jack|NJD", "Evangelista, Luke|NJ":"Evangelista, Luke|NJD", "Mantha, Anthony|NJ":"Mantha, Anthony|NJD" };
@@ -325,7 +321,7 @@ app.get("/api/admin/status",adminGate,(req,res)=>{
  res.json({updatedAt:state.updatedAt,ageMinutes:ageMinutes(),unmatched:state.statsQuality?.unmatched||[],noCurrentStats:state.statsQuality?.noCurrentStats||[],franchisePicks,trades:tradeRows(false),participants:participants.map(p=>({...p,paid:!!db.prepare("SELECT paid FROM participants_meta WHERE pool_name=?").get(p.poolName)?.paid}))});
 });
 
-app.get('/{*splat}', (req,res)=>res.sendFile(path.join(__dirname,"public/index.html")));
+app.get("*",(req,res)=>res.sendFile(path.join(__dirname,"public/index.html")));
 cron.schedule(config.updateSchedule,async()=>{try{await refresh("scheduled");console.log("Scheduled NHL refresh complete");}catch(e){console.error("Scheduled NHL refresh failed:",e.message);}}, {timezone:config.timezone});
 app.listen(PORT,async()=>{
  console.log(`BMO2026 tracker listening on ${PORT}`);
