@@ -1,0 +1,4144 @@
+{
+  "Konrad HB": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Suzuki, Nick",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Hughes, Jack",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Bedard, Connor",
+      "team": "CHI",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Raymond, Lucas",
+      "team": "DET",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Gauthier, Cutter",
+      "team": "ANA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Larkin, Dylan",
+      "team": "DET",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Jarvis, Seth",
+      "team": "CAR",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Zegras, Trevor",
+      "team": "PHI",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Knies, Matt",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Smith, Will",
+      "team": "SJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Holloway, Dylan",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Evangelista, Luke",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Heiskanen, Miro",
+      "team": "DAL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dunn, Vince",
+      "team": "SEA",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Oettinger, Jake",
+      "team": "DAL",
+      "position": "G",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Blackwood, MacKenzie",
+      "team": "COL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Wallstedt, Jesper",
+      "team": "MIN",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Minnesota Wild",
+      "team": "MIN",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Anaheim Ducks",
+      "team": "ANA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Dana R": [
+    {
+      "round": 0,
+      "name": "MacKinnon, Nathan",
+      "team": "COL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Robertson, Jason",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Nylander, William",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Johnston, Wyatt",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Thompson, Tage",
+      "team": "BUF",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Slafkovsky, Juraj",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Bratt, Jesper",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Marchenko, Kirill",
+      "team": "CBJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Dorofeyev, Pavel",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Cozens, Dylan",
+      "team": "OTT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Bouchard, Evan",
+      "team": "EDM",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Chychrun, Jakob",
+      "team": "WSH",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Wedgewood, Scott",
+      "team": "COL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Blackwood, MacKenzie",
+      "team": "COL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Dallas Stars",
+      "team": "DAL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Montreal Canadiens",
+      "team": "MTL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Anaheim Ducks",
+      "team": "ANA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Marc-Olivier Cormier": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Caufield, Cole",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Johnston, Wyatt",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Thompson, Tage",
+      "team": "BUF",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Schmaltz, Nick",
+      "team": "UTA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Carlsson, Leo",
+      "team": "ANA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Tavares, John",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Konecny, Travis",
+      "team": "PHI",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Wilson, Tom",
+      "team": "WSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Nelson, Brock",
+      "team": "COL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Horvat, Bo",
+      "team": "NYI",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Cozens, Dylan",
+      "team": "OTT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Verhaeghe, Carter",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Josi, Roman",
+      "team": "NSH",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Swayman, Jeremy",
+      "team": "BOS",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Anaheim Ducks",
+      "team": "ANA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Alex B": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Suzuki, Nick",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Caufield, Cole",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Rantanen, Mikko",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Thompson, Tage",
+      "team": "BUF",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Forsberg, Filip",
+      "team": "NSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Slafkovsky, Juraj",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Larkin, Dylan",
+      "team": "DET",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Marchenko, Kirill",
+      "team": "CBJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Zegras, Trevor",
+      "team": "PHI",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Stamkos, Steven",
+      "team": "NSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Ovechkin, Alex",
+      "team": "WSH",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Nugent-Hopkins, Ryan",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Hughes, Quinn",
+      "team": "MIN",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Chychrun, Jakob",
+      "team": "WSH",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Dobes, Jakub",
+      "team": "MTL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Bobrovsky, Sergei",
+      "team": "TOR",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Montreal Canadiens",
+      "team": "MTL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "CJB": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Robertson, Jason",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Caufield, Cole",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Johnston, Wyatt",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Aho, Sebastian",
+      "team": "CAR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Forsberg, Filip",
+      "team": "NSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Guenther, Dylan",
+      "team": "UTA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Tavares, John",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Malkin, Evgeni",
+      "team": "PIT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Tuch, Alex",
+      "team": "WSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Zacha, Pavel",
+      "team": "BOS",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Ovechkin, Alex",
+      "team": "WSH",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Nugent-Hopkins, Ryan",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Trocheck, Vincent",
+      "team": "UTA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Bouchard, Evan",
+      "team": "EDM",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Heiskanen, Miro",
+      "team": "DAL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Andersson, Rasmus",
+      "team": "VGK",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Dobes, Jakub",
+      "team": "MTL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Ullmark, Linus",
+      "team": "OTT",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Tampa Bay Lightning",
+      "team": "TB",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Pittsburgh Penguins",
+      "team": "PIT",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Sam Archambault": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Stutzle, Tim",
+      "team": "OTT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Bedard, Connor",
+      "team": "CHI",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Guenther, Dylan",
+      "team": "UTA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Tavares, John",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Thomas, Robert",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Knies, Matt",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Smith, Will",
+      "team": "SJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Cozens, Dylan",
+      "team": "OTT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Chychrun, Jakob",
+      "team": "WSH",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Montreal Canadiens",
+      "team": "MTL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Pascaldito": [
+    {
+      "round": 0,
+      "name": "MacKinnon, Nathan",
+      "team": "COL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Hughes, Jack",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Raymond, Lucas",
+      "team": "DET",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Gauthier, Cutter",
+      "team": "ANA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Barzal, Mathew",
+      "team": "NYI",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Thomas, Robert",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Tkachuk, Brady",
+      "team": "FLA",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Knies, Matt",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Dorofeyev, Pavel",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Cozens, Dylan",
+      "team": "OTT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Trocheck, Vincent",
+      "team": "UTA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Seider, Moritz",
+      "team": "DET",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Wallstedt, Jesper",
+      "team": "MIN",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Carolina Hurricanes",
+      "team": "CAR",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Montreal Canadiens",
+      "team": "MTL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Anaheim Ducks",
+      "team": "ANA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "CC": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Rantanen, Mikko",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Thompson, Tage",
+      "team": "BUF",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Raymond, Lucas",
+      "team": "DET",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Carlsson, Leo",
+      "team": "ANA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Barzal, Mathew",
+      "team": "NYI",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Marchenko, Kirill",
+      "team": "CBJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Knies, Matt",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Smith, Will",
+      "team": "SJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Holloway, Dylan",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Lafreniere, Alexis",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Heiskanen, Miro",
+      "team": "DAL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Dobes, Jakub",
+      "team": "MTL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Bobrovsky, Sergei",
+      "team": "TOR",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Alessandro Buonamici": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Johnston, Wyatt",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Thompson, Tage",
+      "team": "BUF",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Guenther, Dylan",
+      "team": "UTA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Svechnikov, Andrei",
+      "team": "CAR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Marchenko, Kirill",
+      "team": "CBJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Tkachuk, Brady",
+      "team": "FLA",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Knies, Matt",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Dorofeyev, Pavel",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Holloway, Dylan",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Chychrun, Jakob",
+      "team": "WSH",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Hedman, Victor",
+      "team": "TB",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Leandros Stamatakos": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Caufield, Cole",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "DeBrincat, Alex",
+      "team": "DET",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Forsberg, Filip",
+      "team": "NSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Batherson, Drake",
+      "team": "OTT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Tavares, John",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Jarvis, Seth",
+      "team": "CAR",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Tkachuk, Brady",
+      "team": "FLA",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Stamkos, Steven",
+      "team": "NSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Ovechkin, Alex",
+      "team": "WSH",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Holloway, Dylan",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Heiskanen, Miro",
+      "team": "DAL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Swayman, Jeremy",
+      "team": "BOS",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Montreal Canadiens",
+      "team": "MTL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Dominic P": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Johnston, Wyatt",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Schmaltz, Nick",
+      "team": "UTA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Slafkovsky, Juraj",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Bratt, Jesper",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Thomas, Robert",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Tkachuk, Brady",
+      "team": "FLA",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Smith, Will",
+      "team": "SJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Cozens, Dylan",
+      "team": "OTT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Lafreniere, Alexis",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Sanderson, Jake",
+      "team": "OTT",
+      "position": "D",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dunn, Vince",
+      "team": "SEA",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Wedgewood, Scott",
+      "team": "COL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Dallas Stars",
+      "team": "DAL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Montreal Canadiens",
+      "team": "MTL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Felix P": [
+    {
+      "round": 0,
+      "name": "MacKinnon, Nathan",
+      "team": "COL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Suzuki, Nick",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Hughes, Jack",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Slafkovsky, Juraj",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Barzal, Mathew",
+      "team": "NYI",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Marchenko, Kirill",
+      "team": "CBJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Zegras, Trevor",
+      "team": "PHI",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Stamkos, Steven",
+      "team": "NSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Marchand, Brad",
+      "team": "FLA",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Nugent-Hopkins, Ryan",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Seider, Moritz",
+      "team": "DET",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Hedman, Victor",
+      "team": "TB",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Blackwood, MacKenzie",
+      "team": "COL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Swayman, Jeremy",
+      "team": "BOS",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Maxime P": [
+    {
+      "round": 0,
+      "name": "MacKinnon, Nathan",
+      "team": "COL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Rantanen, Mikko",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Zibanejad, Mika",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Slafkovsky, Juraj",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Barzal, Mathew",
+      "team": "NYI",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Jarvis, Seth",
+      "team": "CAR",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Tkachuk, Brady",
+      "team": "FLA",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Smith, Will",
+      "team": "SJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Nugent-Hopkins, Ryan",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Verhaeghe, Carter",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Heiskanen, Miro",
+      "team": "DAL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Chabot, Thomas",
+      "team": "OTT",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Blackwood, MacKenzie",
+      "team": "COL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Wallstedt, Jesper",
+      "team": "MIN",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Vancouver Canucks",
+      "team": "VAN",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Sebastien P": [
+    {
+      "round": 0,
+      "name": "MacKinnon, Nathan",
+      "team": "COL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Eichel, Jack",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Hughes, Jack",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Carlsson, Leo",
+      "team": "ANA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Larkin, Dylan",
+      "team": "DET",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Jarvis, Seth",
+      "team": "CAR",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Marchand, Brad",
+      "team": "FLA",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Hertl, Tomas",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Heiskanen, Miro",
+      "team": "DAL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Andersson, Rasmus",
+      "team": "VGK",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Oettinger, Jake",
+      "team": "DAL",
+      "position": "G",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Gustavsson, Filip",
+      "team": "MIN",
+      "position": "G",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Wallstedt, Jesper",
+      "team": "MIN",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Elliot P": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Robertson, Jason",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Rantanen, Mikko",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Carlsson, Leo",
+      "team": "ANA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Barzal, Mathew",
+      "team": "NYI",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Jarvis, Seth",
+      "team": "CAR",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Marchand, Brad",
+      "team": "FLA",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Horvat, Bo",
+      "team": "NYI",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Cozens, Dylan",
+      "team": "OTT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Seider, Moritz",
+      "team": "DET",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Hedman, Victor",
+      "team": "TB",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Wallstedt, Jesper",
+      "team": "MIN",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Anaheim Ducks",
+      "team": "ANA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Franky": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Nylander, William",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Rantanen, Mikko",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Kempe, Adrian",
+      "team": "LAK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Bratt, Jesper",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Jarvis, Seth",
+      "team": "CAR",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Ovechkin, Alex",
+      "team": "WSH",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Hyman, Zach",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Nugent-Hopkins, Ryan",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Verhaeghe, Carter",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Heiskanen, Miro",
+      "team": "DAL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Morrissey, Josh",
+      "team": "WPG",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Hedman, Victor",
+      "team": "TB",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Oettinger, Jake",
+      "team": "DAL",
+      "position": "G",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Ullmark, Linus",
+      "team": "OTT",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Dallas Stars",
+      "team": "DAL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Vancouver Canucks",
+      "team": "VAN",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Eli Brunet": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Rantanen, Mikko",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Thompson, Tage",
+      "team": "BUF",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Carlsson, Leo",
+      "team": "ANA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Svechnikov, Andrei",
+      "team": "CAR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Thomas, Robert",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Smith, Will",
+      "team": "SJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Hyman, Zach",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Holloway, Dylan",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Miller, J.T.",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Sanderson, Jake",
+      "team": "OTT",
+      "position": "D",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Florida Panthers",
+      "team": "FLA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Anaheim Ducks",
+      "team": "ANA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Charles’ team": [
+    {
+      "round": 0,
+      "name": "MacKinnon, Nathan",
+      "team": "COL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Suzuki, Nick",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Caufield, Cole",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Rantanen, Mikko",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Marner, Mitchell",
+      "team": "VGK",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "O'Reilly, Ryan",
+      "team": "NSH",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Slafkovsky, Juraj",
+      "team": "MTL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Tavares, John",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Malkin, Evgeni",
+      "team": "PIT",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Nelson, Brock",
+      "team": "COL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Nugent-Hopkins, Ryan",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Lafreniere, Alexis",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Hughes, Quinn",
+      "team": "MIN",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Heiskanen, Miro",
+      "team": "DAL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Faber, Brock",
+      "team": "MIN",
+      "position": "D",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Dobes, Jakub",
+      "team": "MTL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Blackwood, MacKenzie",
+      "team": "COL",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Montreal Canadiens",
+      "team": "MTL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "San Jose Sharks",
+      "team": "SJ",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ],
+  "Goal Diggers": [
+    {
+      "round": 0,
+      "name": "McDavid, Connor",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 1,
+      "name": "Draisaitl, Leon",
+      "team": "EDM",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 2,
+      "name": "Kaprizov, Kirill",
+      "team": "MIN",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 3,
+      "name": "Johnston, Wyatt",
+      "team": "DAL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 4,
+      "name": "Thompson, Tage",
+      "team": "BUF",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 5,
+      "name": "Hagel, Brandon",
+      "team": "TB",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 6,
+      "name": "Carlsson, Leo",
+      "team": "ANA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 7,
+      "name": "Bratt, Jesper",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 8,
+      "name": "Thomas, Robert",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 9,
+      "name": "Reinhart, Sam",
+      "team": "FLA",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 10,
+      "name": "Hischier, Nico",
+      "team": "NJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 11,
+      "name": "Smith, Will",
+      "team": "SJ",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 12,
+      "name": "Demidov, Ivan",
+      "team": "MTL",
+      "position": "F",
+      "injured": true,
+      "suspended": false
+    },
+    {
+      "round": 13,
+      "name": "Matthews, Auston",
+      "team": "TOR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 14,
+      "name": "Holloway, Dylan",
+      "team": "STL",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 15,
+      "name": "Lafreniere, Alexis",
+      "team": "NYR",
+      "position": "F",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 16,
+      "name": "Makar, Cale",
+      "team": "COL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 17,
+      "name": "Hutson, Lane",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 18,
+      "name": "Seider, Moritz",
+      "team": "DET",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 19,
+      "name": "Schaefer, Matthew",
+      "team": "NYI",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 20,
+      "name": "Dobson, Noah",
+      "team": "MTL",
+      "position": "D",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 21,
+      "name": "Vasilevskiy, Andrei",
+      "team": "TB",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 22,
+      "name": "Sorokin, Ilya",
+      "team": "NYI",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 23,
+      "name": "Thompson, Logan",
+      "team": "WSH",
+      "position": "G",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 24,
+      "name": "Colorado Avalanche",
+      "team": "COL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 25,
+      "name": "Montreal Canadiens",
+      "team": "MTL",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    },
+    {
+      "round": 26,
+      "name": "Anaheim Ducks",
+      "team": "ANA",
+      "position": "T",
+      "injured": false,
+      "suspended": false
+    }
+  ]
+}
