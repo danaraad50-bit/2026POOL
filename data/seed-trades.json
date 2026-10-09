@@ -1,0 +1,80 @@
+[
+  {
+    "poolName": "Konrad HB",
+    "slot": 14,
+    "old_name": "Holloway, Dylan",
+    "old_team": "STL",
+    "new_name": "Hertl, Tomas",
+    "new_team": "VGK",
+    "position": "F",
+    "traded_at": "2026-10-07T12:00:00-04:00",
+    "old_points": 0,
+    "old_stats": {
+      "GP": 3,
+      "G": 0,
+      "A": 0,
+      "PTS": 0,
+      "plusMinus": 0,
+      "PIM": 0,
+      "PPG": 0,
+      "PPA": 0,
+      "PPP": 0,
+      "SHG": 0,
+      "SHA": 0,
+      "SHP": 0
+    },
+    "new_stats": {
+      "GP": 0,
+      "G": 0,
+      "A": 0,
+      "PTS": 0,
+      "plusMinus": 0,
+      "PIM": 0,
+      "PPG": 0,
+      "PPA": 0,
+      "PPP": 0,
+      "SHG": 0,
+      "SHA": 0,
+      "SHP": 0
+    }
+  },
+  {
+    "poolName": "Charles’ team",
+    "slot": 19,
+    "old_name": "Faber, Brock",
+    "old_team": "MIN",
+    "new_name": "Schaefer, Matthew",
+    "new_team": "NYI",
+    "position": "D",
+    "traded_at": "2026-10-01T12:00:00-04:00",
+    "old_points": 0,
+    "old_stats": {
+      "GP": 0,
+      "G": 0,
+      "A": 0,
+      "PTS": 0,
+      "plusMinus": 0,
+      "PIM": 0,
+      "PPG": 0,
+      "PPA": 0,
+      "PPP": 0,
+      "SHG": 0,
+      "SHA": 0,
+      "SHP": 0
+    },
+    "new_stats": {
+      "GP": 0,
+      "G": 0,
+      "A": 0,
+      "PTS": 0,
+      "plusMinus": 0,
+      "PIM": 0,
+      "PPG": 0,
+      "PPA": 0,
+      "PPP": 0,
+      "SHG": 0,
+      "SHA": 0,
+      "SHP": 0
+    }
+  }
+]
