@@ -32,6 +32,7 @@ const TEAM_FULL_NAMES = {
   "Washington Capitals":"WSH","Winnipeg Jets":"WPG"
 };
 const TEAM_FULL_NAME_KEYS = new Map(Object.entries(TEAM_FULL_NAMES).map(([name,abbr])=>[name.toLowerCase(),abbr]));
+const norm = s => String(s ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
 function teamCodeFromRow(r) {
   const val=v=>v&&typeof v==="object"?(v.default??v.abbrev??v.code??""):v;
   const direct=val(r?.teamAbbrev??r?.teamAbbreviation??r?.teamCode);
